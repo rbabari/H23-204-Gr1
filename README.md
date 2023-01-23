@@ -5,6 +5,6 @@ H23-204-Gr1
 bla bla 
 <img src="https://www.cliniquesveterinairesdelarance.fr/Uploads/conseils/Bengalshutterstock_34752745.jpg-800.JPG" alt="">
 
-<img src="./images/chaton.jpg" alt="...">
+<img src="./Chaton.jpeg" alt="...">
 ## Titre 2 : travail en équipe 
 ### Créer des branches
