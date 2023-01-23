@@ -1,0 +1,1 @@
+print("This article is about the vectors mainly used in physics and engineering to represent directed quantities. For mathematical vectors in general, see Vector (mathematics and physics). For other uses, see Vector (disambiguation).")
